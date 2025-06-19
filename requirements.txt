@@ -1,0 +1,17 @@
+langchain
+google-generativeai
+langchain_experimental
+langchain-community
+langchain-google-genai
+streamlit
+deep-translator
+matplotlib
+numpy
+requests
+geopy
+folium
+streamlit-folium
+speechrecognition
+google-cloud-speech
+sounddevice
+wheel
